@@ -1,0 +1,55 @@
+.nav_logo{
+    display: block;
+    float: left;
+    background-color: #367FA9;
+    width: 15%;
+    height: 50px;
+    }
+
+.nav_logo_text{
+    color: white;
+    size: 1em;
+    }
+    
+.nav_main{
+    display: block;
+    float: right;
+    background-color: #3C8DBC;
+    height: 50px;
+    width: 85%;
+    }
+    
+.nav_main_text{
+    color: white;
+    font-size: 1em;
+    }
+.nav_content{
+    
+    }
+.user-image{
+    height: 30px;
+    }
+    
+li{
+    list-style-type: none;
+    }
+    
+.img-circle{
+    height: 100px;
+    margin: auto;
+    }
+    
+.main-sidebar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 50px;
+    min-height: 100%;
+    width: 15%;
+    z-index: -810;
+    background-color: #222D32;
+    }
+    
+.nav_menu{
+    display: inline-block;
+    }
